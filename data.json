@@ -1,0 +1,517 @@
+{
+ "items": [
+  {
+   "n": "wshobson/agents",
+   "cat": "dev",
+   "m": "stack",
+   "cost": "free",
+   "d": "94 个插件、185 个 skill，覆盖 Python/JS 开发、代码审查、测试和安全，一份源码适配 Claude Code、Codex、Cursor 等。",
+   "u": "https://github.com/wshobson/agents",
+   "history": [
+    [
+     "2026-11-11",
+     42407
+    ]
+   ],
+   "stars": 42407,
+   "pushed": "2026-11-09",
+   "archived": false
+  },
+  {
+   "n": "addyosmani/agent-skills",
+   "cat": "dev",
+   "m": "bars",
+   "cost": "free",
+   "d": "25 个工程流程 skill：写规格、拆任务、TDD、评审、上线，附 9 个斜杠命令。",
+   "u": "https://github.com/addyosmani/agent-skills",
+   "history": [
+    [
+     "2026-11-11",
+     115480
+    ]
+   ],
+   "stars": 115480,
+   "pushed": "2026-11-01",
+   "archived": false
+  },
+  {
+   "n": "anthropics/skills",
+   "cat": "dev",
+   "m": "grid",
+   "cost": "free",
+   "d": "Anthropic 官方 skill 示例，含 docx、pdf、pptx、xlsx 文档 skill 与 skill 规范、模板。",
+   "u": "https://github.com/anthropics/skills",
+   "history": [
+    [
+     "2026-11-11",
+     192740
+    ]
+   ],
+   "stars": 192740,
+   "pushed": "2026-11-06",
+   "archived": false
+  },
+  {
+   "n": "thedotmack/claude-mem",
+   "cat": "dev",
+   "m": "rings",
+   "cost": "opt",
+   "d": "让 Agent 跨会话记住做过的事，自动压缩并在下次会话注入相关上下文。托管版有 30 天试用。",
+   "u": "https://github.com/thedotmack/claude-mem",
+   "history": [
+    [
+     "2026-11-11",
+     116002
+    ]
+   ],
+   "stars": 116002,
+   "pushed": "2026-11-11",
+   "archived": false
+  },
+  {
+   "n": "tt-a1i/archify",
+   "cat": "dev",
+   "m": "nodes",
+   "cost": "free",
+   "d": "把代码库或一句描述变成可交互的架构图，输出单个 HTML 文件，方便分享。",
+   "u": "https://github.com/tt-a1i/archify",
+   "history": [
+    [
+     "2026-11-11",
+     95500
+    ]
+   ],
+   "stars": 95500,
+   "pushed": "2026-11-11",
+   "archived": false
+  },
+  {
+   "n": "ahujasid/mcp-for-blender",
+   "cat": "blender",
+   "m": "cube",
+   "cost": "opt",
+   "d": "最热门的 Blender MCP：让 AI 建模、上材质、跑 Python、调用 Poly Haven 与 Sketchfab 资源。AI 生成 3D 模型的 Premium 为付费。",
+   "u": "https://github.com/ahujasid/mcp-for-blender",
+   "history": [
+    [
+     "2026-11-11",
+     33966
+    ]
+   ],
+   "stars": 33966,
+   "pushed": "2026-11-04",
+   "archived": false
+  },
+  {
+   "n": "HoldMyBeer-gg/blenderwright",
+   "cat": "blender",
+   "m": "wave",
+   "cost": "free",
+   "d": "276 个工具的 Blender MCP 服务器，含网格质量检查和专家提示，无遥测，仅支持 Blender 5.2 LTS。",
+   "u": "https://github.com/HoldMyBeer-gg/blenderwright",
+   "history": [
+    [
+     "2026-11-11",
+     195
+    ]
+   ],
+   "stars": 195,
+   "pushed": "2026-11-05",
+   "archived": false
+  },
+  {
+   "n": "elithril/blender-kiln",
+   "cat": "blender",
+   "m": "cube",
+   "cost": "opt",
+   "d": "Claude Code 插件：描述物体或给一张照片，就在 Blender 里做出可用于游戏、网页、AR 或 3D 打印的模型。需要 Claude 订阅或 API Key。",
+   "u": "https://github.com/elithril/blender-kiln",
+   "history": [
+    [
+     "2026-11-11",
+     207
+    ]
+   ],
+   "stars": 207,
+   "pushed": "2026-11-03",
+   "archived": false
+  },
+  {
+   "n": "arjun988/blender-skills",
+   "cat": "blender",
+   "m": "grid",
+   "cost": "free",
+   "d": "94 个 Blender 专项 skill，从建模、UV、绑定到游戏引擎导出，由 blender-director 统一调度。",
+   "u": "https://github.com/arjun988/blender-skills",
+   "history": [
+    [
+     "2026-11-11",
+     2463
+    ]
+   ],
+   "stars": 2463,
+   "pushed": "2026-11-06",
+   "archived": false
+  },
+  {
+   "n": "RobLe3/cc-blender-skill",
+   "cat": "blender",
+   "m": "stack",
+   "cost": "free",
+   "d": "30 个可串联的 Blender skill，用自然语言完成建模到渲染，支持按参考图重建，兼容官方与社区 MCP。",
+   "u": "https://github.com/RobLe3/cc-blender-skill",
+   "history": [
+    [
+     "2026-11-11",
+     157
+    ]
+   ],
+   "stars": 157,
+   "pushed": "2026-10-12",
+   "archived": false
+  },
+  {
+   "n": "youichi-uda/blender-mcp-pro",
+   "cat": "blender",
+   "m": "bars",
+   "cost": "paid",
+   "d": "120 多个工具的 Blender MCP，含几何节点、绑定、批量渲染。一次性 15 美元，或每月 5 美元。",
+   "u": "https://github.com/youichi-uda/blender-mcp-pro",
+   "history": [
+    [
+     "2026-11-11",
+     33
+    ]
+   ],
+   "stars": 33,
+   "pushed": "2026-04-15",
+   "archived": false
+  },
+  {
+   "n": "showheyohtaki/motion-prompt",
+   "cat": "design",
+   "m": "wave",
+   "cost": "free",
+   "d": "144 个动效、镜头、UI 效果的命名库，每个都有动态样例和可复制的提示词，可装成 Agent skill。",
+   "u": "https://github.com/showheyohtaki/motion-prompt",
+   "history": [
+    [
+     "2026-11-11",
+     1953
+    ]
+   ],
+   "stars": 1953,
+   "pushed": "2026-10-29",
+   "archived": false
+  }
+ ],
+ "candidates": [
+  {
+   "n": "DietrichGebert/ponytail",
+   "u": "https://github.com/DietrichGebert/ponytail",
+   "cat": "dev",
+   "stars": 188678,
+   "d": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "Leonxlnx/taste-skill",
+   "u": "https://github.com/Leonxlnx/taste-skill",
+   "cat": "dev",
+   "stars": 113196,
+   "d": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "paperclipai/paperclip",
+   "u": "https://github.com/paperclipai/paperclip",
+   "cat": "dev",
+   "stars": 113039,
+   "d": "The open-source app everyone uses to manage agents at work",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "pbakaus/impeccable",
+   "u": "https://github.com/pbakaus/impeccable",
+   "cat": "dev",
+   "stars": 107868,
+   "d": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 Apache-2.0；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "nexu-io/open-design",
+   "u": "https://github.com/nexu-io/open-design",
+   "cat": "dev",
+   "stars": 107117,
+   "d": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 Apache-2.0；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "Egonex-AI/Understand-Anything",
+   "u": "https://github.com/Egonex-AI/Understand-Anything",
+   "cat": "dev",
+   "stars": 91974,
+   "d": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "career-ops-hq/career-ops",
+   "u": "https://github.com/career-ops-hq/career-ops",
+   "cat": "dev",
+   "stars": 81826,
+   "d": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "ayghri/i-have-adhd",
+   "u": "https://github.com/ayghri/i-have-adhd",
+   "cat": "dev",
+   "stars": 60817,
+   "d": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "coreyhaines31/marketingskills",
+   "u": "https://github.com/coreyhaines31/marketingskills",
+   "cat": "dev",
+   "stars": 59650,
+   "d": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "K-Dense-AI/scientific-agent-skills",
+   "u": "https://github.com/K-Dense-AI/scientific-agent-skills",
+   "cat": "dev",
+   "stars": 56791,
+   "d": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "alchaincyf/nuwa-skill",
+   "u": "https://github.com/alchaincyf/nuwa-skill",
+   "cat": "dev",
+   "stars": 38035,
+   "d": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "agentskills/agentskills",
+   "u": "https://github.com/agentskills/agentskills",
+   "cat": "dev",
+   "stars": 27168,
+   "d": "Specification and documentation for Agent Skills",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "mcp",
+   "why": "MCP 官方注册表收录。已核对：开源许可证 Apache-2.0；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "Vincentwei1021/video-shotcraft",
+   "u": "https://github.com/Vincentwei1021/video-shotcraft",
+   "cat": "dev",
+   "stars": 18599,
+   "d": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) ",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 Apache-2.0；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "google/elephant-goldfish-model",
+   "u": "https://github.com/google/elephant-goldfish-model",
+   "cat": "dev",
+   "stars": 17337,
+   "d": "Open-source plugin for designing and reviewing software with agents",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 Apache-2.0；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "lemomo-ai/lemo-opuscar",
+   "u": "https://github.com/lemomo-ai/lemo-opuscar",
+   "cat": "dev",
+   "stars": 14658,
+   "d": "A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Le",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "tigerless-labs/autoharness",
+   "u": "https://github.com/tigerless-labs/autoharness",
+   "cat": "dev",
+   "stars": 10966,
+   "d": "Building the self-learning layer next-gen agents will ship with, learning skills from real work.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "rehan-remade/universal-modder",
+   "u": "https://github.com/rehan-remade/universal-modder",
+   "cat": "dev",
+   "stars": 9602,
+   "d": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "Ryze-AI-Adgent/open-seo-mcp-skills",
+   "u": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+   "cat": "dev",
+   "stars": 9131,
+   "d": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http h",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "ifBars/blender-agent-studio",
+   "u": "https://github.com/ifBars/blender-agent-studio",
+   "cat": "blender",
+   "stars": 111,
+   "d": "Free, open-source Blender AI plugin for the tools you already use. Codex and Claude Code installers, local MCP tools, editable .blend files and Python source.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "github",
+   "why": "已核对：开源许可证 MIT；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "emircbngl/blender-optics-simulator",
+   "u": "https://github.com/emircbngl/blender-optics-simulator",
+   "cat": "blender",
+   "stars": 36,
+   "d": "Blender add-on to design, simulate, align & render optical setups — live beam tracing, kinematic-mount auto-alignment, polarization (Jones/Stokes), interference fringes, Gaussian beams, wavelength opt",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "mcp",
+   "why": "MCP 官方注册表收录。已核对：开源许可证 GPL-3.0；创建满 30 天；90 天内有更新；非 fork、未归档"
+  },
+  {
+   "n": "dsh-blender-mcp-bridge",
+   "u": "https://github.com/xuezuoys/dsh-blender-mcp-bridge",
+   "cat": "blender",
+   "stars": null,
+   "metric": "每周下载 571",
+   "d": "此项目是对 Deepseek Harness 开发的插件，旨在包装与桥接 Blender MCP Add-on，使 DSH 上的模型可便捷对接接入当前用户工作中的 Blender 以辅助创作，且满足基础安全需要。",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "npm",
+   "why": "已核对：有仓库链接；每周下载 571；120 天内有发布；声明了开源许可证（npm 上的包未逐个审计）"
+  },
+  {
+   "n": "fnf-blender-mcp",
+   "u": "https://github.com/higgsfield-ai/fnf-local-pluging-bridge-mcp",
+   "cat": "blender",
+   "stars": null,
+   "metric": "每周下载 548",
+   "d": "Local MCP server for Blender with a background process and offline creative skills.",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "npm",
+   "why": "已核对：有仓库链接；每周下载 548；120 天内有发布；声明了开源许可证（npm 上的包未逐个审计）"
+  },
+  {
+   "n": "@three-ws/blender-mcp",
+   "u": "https://github.com/nirholas/three.ws",
+   "cat": "blender",
+   "stars": null,
+   "metric": "每周下载 95",
+   "d": "Drive the Blender on your machine from any AI agent, headless. Inspect a 3D file, convert between GLB/glTF/FBX/OBJ/STL/PLY/DAE/USD/Alembic/.blend, render a preview that comes back inline so the assist",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "npm",
+   "why": "已核对：有仓库链接；每周下载 95；120 天内有发布；声明了开源许可证（npm 上的包未逐个审计）"
+  },
+  {
+   "n": "mojulo",
+   "u": "https://github.com/zombico/mojulo",
+   "cat": "blender",
+   "stars": null,
+   "metric": "每周下载 2446",
+   "d": "Mojulo — a 3D compiler for coding agents: an MCP server that runs wherever your agent runs, on your machine or in the throwaway Linux box it gives itself (the Claude app or web, ChatGPT work mode with",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "npm",
+   "why": "已核对：有仓库链接；每周下载 2446；120 天内有发布；声明了开源许可证（npm 上的包未逐个审计）"
+  },
+  {
+   "n": "dsh-blender-plugin",
+   "u": "https://github.com/sixtysevenlf/dsh-blender-plugin",
+   "cat": "blender",
+   "stars": null,
+   "metric": "每周下载 4598",
+   "d": "DSH × Blender 直连插件（v3.0.6，GUI 优先，无头备用）：15 个模型工具让 AI 直接驱动 Blender——视口/自定义视角、持久内核 Python、时间窗/帧序列观察、内环参数搜索、无头进程与热会话（see/watch/reset/preload/warmup）、作业层、事务回滚、配方库，以及 34 family / 228 op 的契约层（catalog / 判定 / ",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "cost": "unk",
+   "src": "npm",
+   "why": "已核对：有仓库链接；每周下载 4598；120 天内有发布；声明了开源许可证（npm 上的包未逐个审计）"
+  }
+ ],
+ "updated": "2026-11-11",
+ "errors": []
+}
